@@ -1,0 +1,26 @@
+[PROGRAMACAO SHELL SCRIPT]
+-----------------------------------------------------
+Curso online
+Programação Shell Script - Start
+Criado por Pedro Delfino - P.D. Soluções em Tecnologia
+atendimento@e-tinet.com
+-----------------------------------------------------
+
+******** NOTAS EM GERAL ******** 
+
+
+AMBIENTE DE TESTE> Git Bash > VI
+
+==== Script de exemplo ====
+
+!/bin/bash
+
+HORA=`date + '%H'`
+
+echo $HORA
+
+====== Fim do script ======
+
+x! --> sair do vim
+sh nomeScript.sh  --> executar o arquivo
+chmod 755 nomeScript.sh
